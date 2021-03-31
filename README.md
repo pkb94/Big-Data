@@ -8,6 +8,7 @@ How to Run:
 
 
 Copy Poker Input File.txt to HDFS using command:
+
 hadoop fs -put Poker\ Input\ File.txt
 Make the .jar file of MissingPokerCards.java
 Run MissingPokerCards.jar file on Poker Input File.txt using the command:
